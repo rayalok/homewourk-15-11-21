@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+
+.wrap
+{
+    width: 700px;
+    height: 900px;
+    border-top: 3px double rgb(24, 23, 23);
+    border-bottom: 3px double black;
+    margin: 80px auto;
+}
+
+h1{
+    color: rgb(51, 38, 38);
+    text-align: center;
+}
+.frm{
+    padding: 20px 100px;
+}
+
+label,span {
+    color:rgb(8, 8, 8);
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.txt
+{
+    width: 300px;
+    height: 30px;
+    margin: 8px;
+    border: 0px;
+
+}
+
+.btn{
+    width: 150px;
+    height: 35px;
+    font-family: cursive;
+    background-color: royalblue;
+    border: 0px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 8px 0px 0px 12px ;
+    padding
+}
